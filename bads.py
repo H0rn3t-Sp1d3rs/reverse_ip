@@ -65,7 +65,7 @@ if opton=='01' or opton=='1':
 	   	   
 	   	   print(len(response))
 	   	   for urldata in response:
-	   	           with open("url.txt", "a") as f:
+	   	           with open("web.txt", "a") as f:
 	   	           	f.write(urldata+"\n")
 	   	           	
 	   	           	
