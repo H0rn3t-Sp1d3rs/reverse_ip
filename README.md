@@ -19,9 +19,7 @@ $ python bads.py
 
 ```
 <br>
-![IMG_20221012_183859_221](https://user-images.githubusercontent.com/97798085/195344840-5606e64b-be61-4ccb-b4c9-8c9c7051c632.jpg)
-
-<img src="https://user-images.githubusercontent.com/97798085/195344840-5606e64b-be61-4ccb-b4c9-8c9c7051c632">
+<img src="https://user-images.githubusercontent.com/97798085/195344840-5606e64b-be61-4ccb-b4c9-8c9c7051c632.jpg">
 
 
 <br>
